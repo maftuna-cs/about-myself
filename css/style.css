@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(105, 104, 104);
+    color: white;
+    font-size: 1rem;
+    font-weight: normal;
+    font-style: normal; 
+    font-family: Tahoma;
+    line-height: 1.6rem;
+    text-align: left;
+}
+.header-myname {
+    font-family:"Savoye LET";
+    font-style: normal; 
+    line-height: 4rem;
+    text-align: left;
+    font-size: 3rem;
+    text-align: left;
+    position: absolute;
+    top: 2.5%;
+    left:22%;
+    transform:translate(-50%, -50%)
+}
+.header-under-myname {
+    font-family:Tahoma;
+    font-style: normal; 
+    line-height: 4rem;
+    text-align: left;
+    font-size: 1rem;
+    text-align: left;
+    position: absolute;
+    top: 8.5%;
+    left:21.5%;
+    transform:translate(-50%, -50%)
+}
+.nav {
+    color:white;
+    line-height: 1.5rem;
+    top: 30%;
+    left:30%;
+    transform:translate(-50%, -50%)
+}
+.header-my-photo {
+    top: 8%;
+    left:8%;
+    transform:translate(-50%, -50%)
+
+}
+.about-me-body{
+    with:900px;
+    height: ;
+}
+.about-me-header {
+    color
+}
